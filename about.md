@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
 Hi, I’m Shivam Anand, an Engineering Leader at Meta, based in Seattle. I currently lead initiatives focused on applying cutting-edge ML and multimodal LLMs to enhance Meta’s Integrity Systems. My work centers on detecting complex behavior patterns, understanding bad actors, and rebuilding trust across the platform.
